@@ -65,8 +65,9 @@ The simulation produces:
 - A quantum circuit with a Hadamard gate for superposition, a phase gate (0.5 radians) for interference, and a measurement operation.
 - A histogram visualizing the probability distribution, typically showing near-equal probabilities for |0⟩ and |1⟩ with slight variations due to the phase-induced interference.
 - A state vector confirming the expected superposition and phase effects.
-- https://raw.githubusercontent.com/Ronanasr/quantum-double-slit-sim/main/outputs/filename.png
-
+circuit.png: https://raw.githubusercontent.com/Ronanasr/quantum-double-slit-sim/main/outputs/circuit.png
+histogram.png: https://raw.githubusercontent.com/Ronanasr/quantum-double-slit-sim/main/outputs/histogram.png
+test_plot.png: https://raw.githubusercontent.com/Ronanasr/quantum-double-slit-sim/main/outputs/test_plot.png
 Saved outputs (`histogram.png` and `circuit.png`) can be used for presentations or documentation.
 
 ## Project Structure
